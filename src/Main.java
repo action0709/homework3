@@ -53,7 +53,7 @@ var workerCompany=timeWork/timeWorker;
         System.out.println ("Всего работников в компании — "+workerCompany+" человек");
         workerCompany=workerCompany+94;
         timeWork=workerCompany*timeWorker;
-        System.out.println ("Если в компании работает "+workerCompany+" человек, то всего "+timeWork+ " часов работы может быть поделено между сотрудниками");
+        System.out.println ("Если в компании работает "+workerCompany+" человека, то всего "+timeWork+ " часов работы может быть поделено между сотрудниками");
 
     }
 }
